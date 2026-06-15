@@ -65,7 +65,7 @@ Never commit your API key to GitHub.
 Keep .env.local in your .gitignore file.
 The application will not function correctly without a valid Gemini API key.
 🚀 Installation
-git clone https://github.com/yourusername/ai-interview-buddy.git
+git clone https://github.com/avalaanandbabu-dotcom/Ai-Interview-Buddy.git
 
 cd ai-interview-buddy
 
